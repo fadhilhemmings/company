@@ -1,5 +1,5 @@
 # company
-Bahasa pemrograman yang digunakan untuk membuat sebuah website dibawah ini adalah HTML, CSS, PHP, dan Bootstrap kemudian dihubungkan ke database. Pada website ini terdiri dari 2 file, yaitu: user dan perusahaan. Website ini dibuat untuk menyelesaikan tugas pemrograman web.
+Bahasa pemrograman yang digunakan untuk membuat sebuah website dibawah ini adalah HTML, CSS, PHP, dan Bootstrap kemudian dihubungkan ke database. Pada website ini terdiri dari 2 file, yaitu: user dan perusahaan. Web ini juga menggunakan sistem CRUD. Website ini dibuat untuk menyelesaikan tugas pemrograman web.
 ![image](https://github.com/fadhilhemmings/company/assets/87648911/b249d883-80a2-41b6-bf74-590dcfafa2c1)
 
 Pada halaman user ini berisi tentang rekam medis pasien
